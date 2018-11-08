@@ -13,3 +13,5 @@ c
    f
    
 [NTouhouのページ](https://github.com/NTouhou)
+
+Shift + PrintScreenはいいぞ
