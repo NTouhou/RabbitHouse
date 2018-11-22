@@ -18,5 +18,14 @@ public class pingu extends Actor
                 setRotation(270);
                 move(3);
         }
-    }    
+        if( Greenfoot.isKeyDown("left")){
+                setRotation(0);
+                move(-1);
+        }
+
+        if( Greenfoot.isKeyDown( "right" ) ){
+            setRotation(0);
+            move(1);
+            }
+    }
 }

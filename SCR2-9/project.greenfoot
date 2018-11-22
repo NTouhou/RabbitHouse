@@ -1,7 +1,7 @@
 #Greenfoot project file
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=5a5cede0f32f31e8c1a37e9ba65921c8f24584ab
+>>>>>>>=2c912bb0792090e400aebb1b84fb0c09a1ff68df
 class.MyWorld.image=space.jpg
 class.MyWorld.superclass=greenfoot.World
 class.apple.image=apple1.png
@@ -15,7 +15,7 @@ class.sindawani.superclass=greenfoot.Actor
 mainWindow.height=546
 mainWindow.width=871
 mainWindow.x=844
-mainWindow.y=211
+mainWindow.y=239
 package.numDependencies=0
 package.numTargets=5
 project.charset=UTF-8
@@ -48,7 +48,7 @@ target2.y=70
 target3.editor.height=700
 target3.editor.width=900
 target3.editor.x=300
-target3.editor.y=380
+target3.editor.y=324
 target3.height=50
 target3.name=pingu
 target3.naviview.expanded=true
