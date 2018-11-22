@@ -14,8 +14,13 @@ class.sindawani.image=alligator.png
 class.sindawani.superclass=greenfoot.Actor
 mainWindow.height=546
 mainWindow.width=871
+<<<<<<< HEAD
 mainWindow.x=244
 mainWindow.y=288
+=======
+mainWindow.x=844
+mainWindow.y=239
+>>>>>>> 742e17d6888c191dc940be46f318f9b43ba48ab9
 package.numDependencies=0
 package.numTargets=5
 project.charset=UTF-8
@@ -35,7 +40,11 @@ target1.y=70
 target2.editor.height=700
 target2.editor.width=900
 target2.editor.x=105
+<<<<<<< HEAD
 target2.editor.y=128
+=======
+target2.editor.y=100
+>>>>>>> 742e17d6888c191dc940be46f318f9b43ba48ab9
 target2.height=50
 target2.name=sindawani
 target2.naviview.expanded=true
@@ -47,7 +56,11 @@ target2.x=70
 target2.y=70
 target3.editor.height=700
 target3.editor.width=900
+<<<<<<< HEAD
 target3.editor.x=199
+=======
+target3.editor.x=300
+>>>>>>> 742e17d6888c191dc940be46f318f9b43ba48ab9
 target3.editor.y=324
 target3.height=50
 target3.name=pingu
@@ -61,7 +74,11 @@ target3.y=10
 target4.editor.height=700
 target4.editor.width=900
 target4.editor.x=105
+<<<<<<< HEAD
 target4.editor.y=80
+=======
+target4.editor.y=52
+>>>>>>> 742e17d6888c191dc940be46f318f9b43ba48ab9
 target4.height=50
 target4.name=pan
 target4.naviview.expanded=true
@@ -74,7 +91,11 @@ target4.y=130
 target5.editor.height=700
 target5.editor.width=900
 target5.editor.x=105
+<<<<<<< HEAD
 target5.editor.y=80
+=======
+target5.editor.y=52
+>>>>>>> 742e17d6888c191dc940be46f318f9b43ba48ab9
 target5.height=50
 target5.name=MyWorld
 target5.naviview.expanded=true
